@@ -1,1 +1,3 @@
 # EmplManagerBackEnd
+
+rasgo inutil añadido
