@@ -43,6 +43,7 @@ export default class DataService {
 
     private sortByPossition(possition: WorkingPossition): Employee[] {
         /**
+         * Rasgo inutil añadido
          * fix bug rasgo
          */
         const empls: Employee[] = [];
